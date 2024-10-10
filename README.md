@@ -1,5 +1,7 @@
 ### Car Price Prediction Using Decision Tree Regression and Feature Engineering
 
+![Project Image](project_image.jpg)
+
 This project involves predicting car prices based on various features such as the year of manufacture, engine power, fuel type, transmission, and more.
 
 ### Key Techniques and Methods Used
